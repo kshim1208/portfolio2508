@@ -7,6 +7,9 @@ Saved
 *.opendb
 
 
+# tmp ignore
+Content/UI_ref
+
 # Visual Studio 2022, Visual Code user specific files
 .vs/
 .vscode/
