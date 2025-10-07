@@ -92,4 +92,4 @@ Content/**/
 !Content/**/*.uasset
 
 #The specific folder inside the Content folder is included.
-!Content/00_Project/**
+#!Content/00_Project/**
